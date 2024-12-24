@@ -1,0 +1,32 @@
+.requestnow-button{
+    background-color:black;
+    color:white;
+    height:33px;
+    width:108px;
+    border:none;
+    cursor:pointer;
+    transition: opacity 0.15s;
+}
+.requestnow-button:hover{
+    opacity:0.8;
+}
+.requestnow-button:active{
+    opacity:0.5;
+}
+.addtocart-button{
+background-color:rgb(255, 216, 20);
+color:black;
+height:30px;
+width:138px;
+border-radius:150px;
+border:none;
+cursor:pointer;
+transition: box-shadow 0.15s;
+
+}
+.addtocart-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.addtocart-button:active{
+   opacity:0.8;
+}
